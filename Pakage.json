@@ -1,0 +1,10 @@
+{
+  "name": "ff-tournament",
+  "scripts": { "dev": "next dev", "build": "next build" },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "firebase": "^10.12.2"
+  }
+}
